@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("hello world");
 		
 		System.out.println("made change for git");
+		System.out.println("made a new change for git");
 		
 		Card testCard=new Card(10,"queen");
 		Card testCard2=new Card(10);
